@@ -1,9 +1,12 @@
+
 body {
     background-color: rgb(64, 170, 212);
     font:normal 15pt Arial;
 }
 
 header {
+    margin: auto;
+    width: 500px;
     color: rgb(255, 255, 255);
     text-align: center;
 }
@@ -23,6 +26,8 @@ div{
 }
 
 footer {
+    margin: auto;
+    width: 500px;
     color: rgb(255, 255, 255);
     text-align: center;
     font-style: italic;
