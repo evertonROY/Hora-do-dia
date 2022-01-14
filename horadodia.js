@@ -36,7 +36,7 @@ function carregar() {
             bnt.innerHTML = 'Boa noite Zzz!'
         }
         msg.innerHTML = `Agora são ${hour}:${minute}:${second}`
-    }, 100);//reload a cada 1 minutos!
+    }, 100);//reload!
 }
 
 // NOTE: Formato de data
