@@ -46,4 +46,5 @@ const formatDate = (time) => {
     console.log(arrDate.formatToParts(new Date(time)))
     return { weekday, day, month, year, hour, minute, second }
 
+ 
 }
